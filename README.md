@@ -14,7 +14,7 @@ The workshop introduces breif fundamental of remote sensing data analysis in ord
 
 ## Side resources
 
-- [Cellular Automata Markov Chain](https://colab.research.google.com/github/thanthamky/tes-urban/blob/main/simple_ca-markov.ipynb)
+- [Cellular Automata Markov Chain](https://colab.research.google.com/github/thanthamky/fr-urban/blob/main/simple_ca-markov.ipynb)
 
 
 ### Authors
